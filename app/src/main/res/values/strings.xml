@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CodeLab2</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Ab1 Inversions</string>
+    <string name="fc2_nature_meditations">Nature Meditations</string>
+    <string name="quickyoga">Quick Yoga</string>
+    <string name="stretching">Stretching</string>
+    <string name="tabata">Tabata</string>
+    <string name="estiramiento">Estiramiento</string>
+    <string name="prenatalyoga">PrenatalYoga</string>
+    <string name="stones">Stones</string>
+    <string name="estresansiedad">Estresansiedad</string>
+    <string name="masage">Masage</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+</resources>
